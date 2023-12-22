@@ -1,0 +1,2 @@
+# CodeClauseInternship_PlagiarismChecker
+Plagiarism Checker using python
